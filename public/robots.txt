@@ -74,8 +74,5 @@ Allow: /
 Disallow: /admin/
 Disallow: /api/
 
-# Crawl Delay
-Crawl-delay: 1
-
 # Sitemap
 Sitemap: https://kartalbilgisayarteknikservis.com.tr/sitemap.xml
