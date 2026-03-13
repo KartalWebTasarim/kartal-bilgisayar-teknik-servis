@@ -1,0 +1,81 @@
+# Bilgisayar Teknik Servis - Robots.txt
+# AI-Optimized Robots Configuration
+
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+Disallow: /_next/
+Disallow: /uploads/
+
+# AI Crawlers - Full Access
+User-agent: Google-Extended
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+
+User-agent: GPTBot
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+
+User-agent: anthropic-ai
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+
+User-agent: Claude-Web
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+
+User-agent: PerplexityBot
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+
+User-agent: FacebookBot
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+
+User-agent: Meta-ExternalAgent
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+
+User-agent: bingbot
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+
+User-agent: CCBot
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+
+User-agent: cohere-ai
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+
+User-agent: Diffbot
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+
+User-agent: Applebot
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+
+# Crawl Delay
+Crawl-delay: 1
+
+# Sitemap - Dynamic (will resolve to current domain)
+Sitemap: /sitemap.xml

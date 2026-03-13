@@ -1,0 +1,59 @@
+{
+  "hizmetlerimiz": {
+    "title": "Hizmetlerimiz",
+    "description": "Kartal Bilgisayar Teknik Servis tarafından sunulan yerinde destek, uzaktan yardım ve kurumsal çözümleri bu sayfada düzenli başlıklarla ayrıntılı inceleyebilirsiniz.\n",
+    "seo": {
+      "title": "Hizmetlerimiz",
+      "description": "Teknik Servis hizmetleri arasında yerinde destek, uzaktan yardım, bakım, kurumsal çözümler ve hızlı müdahale seçeneklerini inceleyin.\n",
+      "keywords": []
+    }
+  },
+  "fiyatlarimiz": {
+    "seo": {
+      "title": "Web Tasarım Fiyatları - 2026",
+      "description": "Web tasarım fiyatlarını etkileyen proje kapsamı, sayfa yapısı, içerik derinliği ve teknik ihtiyaç kalemlerini açık biçimde değerlendirin.\n",
+      "keywords": []
+    },
+    "title": "Web Tasarım Fiyatlarımız",
+    "subtitle": "İhtiyaca göre şekillenen ücret yapısını netleştiren bilgilendirme alanı.",
+    "comparison": {
+      "title": "Paket Özellik Karşılaştırması",
+      "description": "Paketlerin Özelliklerini detaylı olarak karşılaştırın ve size en uygun olanı seçin."
+    }
+  },
+  "hizmet-bolgeleri": {
+    "title": "Hizmet Bölgelerimiz",
+    "subtitle": "Kartal Bilgisayar hizmet bölgelerini, mahalle bazlı erişim düzenimizi ve saha planlamamızı bu sayfada açık ve düzenli şekilde inceleyebilirsiniz.",
+    "seo": {
+      "title": "Hizmet Bölgelerimiz",
+      "description": "Kartal Bilgisayar hizmet bölgeleri sayfasında mahalle bazlı erişim düzenimizi ve saha planlamamızı açık biçimde inceleyin.\n",
+      "keywords": []
+    }
+  },
+  "teklif-al": {
+    "title": "Teklif Al",
+    "description": "Kartal Bilgisayar Teknik Servis teklif alma sürecini, talep değerlendirme ölçülerini ve dönüş planını bu sayfada net ve açık biçimde inceleyebilirsiniz.\n",
+    "seo": {
+      "title": "Fiyat Teklifi Al",
+      "description": "Teknik Servis teklif al sayfasında talep gönderimi, değerlendirme ölçüleri ve geri dönüş sürecimizi açık biçimde inceleyin.",
+      "keywords": []
+    }
+  },
+  "fiyat-hesapla": {
+    "title": "Fiyat Hesaplama",
+    "description": "Proje kapsamına göre maliyet öngörüsü sunan pratik değerlendirme alanı.",
+    "seo": {
+      "title": "Web Tasarım Fiyat Hesaplama",
+      "description": "Web tasarım fiyat hesaplama alanında proje türü, içerik kapsamı ve teknik gereksinimlere göre yaklaşık maliyet öngörüsü oluşturun.\n",
+      "keywords": []
+    }
+  },
+  "gizlilik-politikasi": {
+    "title": "Gizlilik Politikası",
+    "subtitle": "Toplanan veriyi, saklama süresini ve paylaşım sınırlarını açık yazar; haklarınızı net biçimde belirtiriz."
+  },
+  "cerez-politikasi": {
+    "title": "Çerez Politikası",
+    "subtitle": "Çerez türlerini, amaçlarını ve tercih yönetimini anlaşılır anlatır; ölçüm araçlarını şeffaf şekilde listeleriz."
+  }
+}

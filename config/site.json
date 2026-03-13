@@ -1,0 +1,35 @@
+{
+  "site": {
+    "name": "Kartal Bilgisayar Teknik Servis",
+    "domain": "kartalbilgisayarteknikservis.com.tr",
+    "district": "Kartal",
+    "city": "İstanbul"
+  },
+  "contact": {
+    "phone": "0545 181 4040",
+    "email": "info@kartalbilgisayarteknikservis.com.tr",
+    "whatsapp": "https://wa.me/905451814040?text=Merhaba",
+    "address": "Karlıktepe Mah. Göl Sok. No:11, 34870 Kartal / İstanbul"
+  },
+  "seo": {
+    "metaTitle": "Kartal Bilgisayar Teknik Servis ve Tamir Servisi",
+    "metaDescription": "Kartal Bilgisayar Teknik Servis; yerinde destek, hızlı arıza tespiti, onarım ve kurumsal çözümlerle Kartal genelinde güvenli teknik hizmet sunar.",
+    "keywords": [
+      "kartal bilgisayar teknik servis",
+      "kartal bilgisayar tamiri",
+      "kartal laptop tamiri",
+      "kartal teknik servis",
+      "kartal bilgisayar servisi"
+    ],
+    "ogImage": "/kartal-bilgisayar-teknik-servis.webp",
+    "logo": "/kartal-bilgisayar-teknik-servis.webp",
+    "favicon": "/favicon.ico"
+  },
+  "analytics": {
+    "googleAnalytics": "G-MWG9MFHPQZ",
+    "googleTagManager": ""
+  },
+  "searchConsole": {
+    "verificationCode": "m7RevyJ-eKEGQagPO_b3wmlLxJze7z8lKdm0OiZfjyE"
+  }
+}

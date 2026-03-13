@@ -1,0 +1,298 @@
+{
+  "homepage": {
+    "hero": {
+      "title": "Kartal Bilgisayar Teknik Servis",
+      "subtitle": "Kartal Bilgisayar Teknik Servisi, arızaya hızla yaklaşan, veriyi koruyan ve her mahallede bireysel ya da kurumsal kullanıcıya güven veren çözüm disiplini sunan yerel uzman destek noktasıdır.",
+      "whatsappText": "WhatsApp Destek",
+      "phoneText": "0 545 181 4040",
+      "cities": [
+        {
+          "name": "Kartal / İstanbul",
+          "enabled": true
+        },
+        {
+          "name": "",
+          "enabled": false
+        },
+        {
+          "name": "",
+          "enabled": false
+        },
+        {
+          "name": "",
+          "enabled": false
+        },
+        {
+          "name": "",
+          "enabled": false
+        }
+      ],
+      "cta": {
+        "primary": null,
+        "secondary": null
+      },
+      "trustBadges": [
+        {
+          "title": "Kayıtlı Süreç",
+          "description": "Her teknik işlem kayıt altında ilerler. Tespit, onay, müdahale ve teslim adımları açık biçimde paylaşılır.",
+          "icon": "briefcase"
+        },
+        {
+          "title": "Hızlı Müdahale",
+          "description": "Kartal’ın mahalle yapısına uygun planlama yaparız. Bu sayede taleplere gecikmeden karşılık veririz.",
+          "icon": "clock"
+        },
+        {
+          "title": "Veri Güveni",
+          "description": "Cihaz içindeki dosyalar, iş akışı ve kullanıcı gizliliği teknik müdahale boyunca dikkatle korunur.",
+          "icon": "users"
+        },
+        {
+          "title": "Net Bilgilendirme",
+          "description": "Sorunu, önerilen işlemi ve süre planını anlaşılır biçimde aktarırız. Belirsiz konuşmayız.",
+          "icon": "monitor"
+        },
+        {
+          "title": "Temiz İşçilik",
+          "description": "Bakım, onarım ve parça değişimi işlemlerinde düzenli, dikkatli ve kontrol odaklı bir uygulama yürütürüz.",
+          "icon": "map-pin"
+        }
+      ]
+    },
+    "seoContent1": "<p>Kartal Bilgisayar Teknik Servis, arıza yaşayan kullanıcıların hız, güven ve açık bilgilendirme beklentisini aynı çizgide karşılayan yerel bir destek merkezidir. Masaüstü, notebook ve çevre birimlerinde yaptığımız işlemler; yalnız sorunu gidermeye değil, tekrar eden hatanın kaynağını görmeye odaklanır. Kartal’ın mahalle yapısını bilen saha düzenimiz sayesinde bireysel kullanıcılar da işletmeler de gecikmeden teknik yardım alır. Her talep kayıt altına alınır, süreç şeffaf ilerler, teslim sonrası kontrol adımı uygulanır ve kullanıcıya yapılan işlemler sade biçimde aktarılır.</p>\n\n<p>Donanım arızası, yavaşlama, ısınma, veri riski veya açılış problemi fark etmeksizin, Kartal bölgesine uygun servis planı kurarız. Gereksiz işlem yükü oluşturmadan, önce tespit yapar, sonra uygun çözümü net biçimde sunarız. Bu yaklaşım, kullanıcıya zaman kazandırır ve cihaz üzerinde belirsizlik bırakmaz. Kartal Bilgisayar Teknik Servis ekibi, yerinde destekten uzaktan müdahaleye kadar farklı senaryolarda ölçülü, düzenli ve kayıtlı bir teknik çalışma akışıyla ilerler; onay sürecini açık tutar, süreyi gerçekçi paylaşır, düzenli bilgi verir.</p>",
+    "services": {
+      "title": "Hizmetlerimiz",
+      "subtitle": "Kartal’da arızadan kuruluma uzanan çözümler tek merkezde buluşur.",
+      "description": "Yerinde müdahale, uzaktan erişim ve kurumsal bakım adımlarımız; arıza süresini azaltır, iş akışınızı korur, cihaz performansını dengede tutar.",
+      "keywords": [
+        "Server",
+        "Altyapı",
+        "Veri Depolama",
+        "Antivirüs",
+        "Veri Merkezi",
+        "Bilgi Güvenliği",
+        "Veri Yedekleme",
+        "Bilgisayar Tamiri",
+        "Web Tasarım",
+        "BT Destek",
+        "Bulut",
+        "Cloud",
+        "Felaket Yönetimi",
+        "Firewall",
+        "Güvenlik Duvarı",
+        "Kamera Sistemleri",
+        "HotSpot",
+        "IT Destek",
+        "Sunucu Kurulum",
+        "Kablolama",
+        "Web Yazılım",
+        "Kablosuz Ağ",
+        "Kurumsal Bakım Anlaşması",
+        "Kurumsal Mail",
+        "KVKK Danışmanlığı",
+        "Lisanslama",
+        "Network",
+        "Yazılım",
+        "Penetrasyon",
+        "Sanallaştırma",
+        "Server Yönetimi",
+        "Sunucu",
+        "Yapısal Kablolama",
+        "Veri Kurtarma",
+        "Veri Taşıma",
+        "VPN",
+        "Web Hosting",
+        "Yedekleme"
+      ]
+    },
+    "devices": {
+      "title": "Hangi Cihazlara Hizmet Veriyoruz?",
+      "subtitle": "",
+      "items": [
+        {
+          "name": "Laptop",
+          "description": "Tüm marka dizüstü bilgisayarlar.",
+          "icon": "laptop"
+        },
+        {
+          "name": "Masaüstü / PC",
+          "description": "Masaüstü bilgisayar sistemleri.",
+          "icon": "desktop"
+        },
+        {
+          "name": "All in One",
+          "description": "Hepsi bir arada bilgisayarlar.",
+          "icon": "all-in-one"
+        },
+        {
+          "name": "MacBook / iMac",
+          "description": "Apple bilgisayar ve dizüstüler.",
+          "icon": "apple"
+        },
+        {
+          "name": "Yazıcı",
+          "description": "Lazer ve mürekkepli yazıcılar.",
+          "icon": "printer"
+        },
+        {
+          "name": "Modem",
+          "description": "İnternet modem ve router cihazları.",
+          "icon": "modem"
+        },
+        {
+          "name": "Switch / Router",
+          "description": "Ağ anahtarlama ve yönlendirme.",
+          "icon": "switch"
+        },
+        {
+          "name": "NAS / Yedekleme",
+          "description": "Ağ depolama ve yedekleme.",
+          "icon": "nas"
+        },
+        {
+          "name": "Sunucu / Server",
+          "description": "Kurumsal sunucu sistemleri.",
+          "icon": "server"
+        },
+        {
+          "name": "Workstation",
+          "description": "Performanslı iş istasyonları.",
+          "icon": "workstation"
+        },
+        {
+          "name": "Monitör ve Çevre Birimleri",
+          "description": "Ekran, klavye, mouselar.",
+          "icon": "monitor"
+        },
+        {
+          "name": "Acil Destek",
+          "description": "Hızlı ve Profesyonel Destek.",
+          "icon": "zap"
+        }
+      ]
+    },
+    "process": {
+      "title": "Nasıl Çalışırız?",
+      "subtitle": "Arızayı aceleyle değil, düzenli ve izlenebilir sistemle çözeriz.",
+      "description": "Talebi alır, ön inceleme yapar, uygun müdahale planını kurarız; süreç boyunca kayıt tutar, sonucu test ederek güvenle teslim ederiz.",
+      "steps": []
+    },
+    "features": {
+      "title": "Neden Biz?",
+      "subtitle": "Karar verirken güven, hız ve kayıt disiplini birlikte önem taşır.",
+      "description": "Her işlem öncesi net tespit sunarız; parça, süre ve onay akışını açık yürütür, sürpriz maliyet riskini belirgin biçimde azaltırız.",
+      "items": []
+    },
+    "technologies": {
+      "title": "Markalar",
+      "subtitle": "Yaygın ve seçkin markalarda deneyimle ilerleyen servis desteği sunarız.",
+      "description": "Notebook, masaüstü ve çevre birimlerinde farklı marka yapılarına hâkim ekibimiz; uyumlu parça, doğru işlem ve temiz kurulum desteği sağlar."
+    },
+    "reviews": {
+      "title": "Müşteri Yorumları",
+      "subtitle": ""
+    },
+    "regions": {
+      "title": "Hizmet Bölgeleri",
+      "subtitle": "Kartal’ın her mahallesine planlı, ölçülü ve hızlı teknik erişim.",
+      "description": "Merkezden Yakacık’a, Soğanlık’tan Uğurmumcu’ya uzanan servis organizasyonumuz; adresinize uygun zamanlama, açık bilgilendirme ve düzenli takip desteği sağlar."
+    },
+    "faq": {
+      "title": "Sıkça Sorulan Sorular",
+      "subtitle": "Kartal teknik servis süreci hakkındaki net yanıtları burada bulursunuz."
+    },
+    "seoContent2": "<p>Bilgisayar Teknik Servis Kartal araması yapan kullanıcılar, yalnız arızayı gideren bir yer aramaz. Aynı zamanda kayıtlı süreç, açık bilgilendirme ve güven veren teknik yaklaşım bekler. Kartal Bilgisayar Teknik Servis olarak amacımız, cihazı kısa sürede çalışır duruma getirmekle sınırlı kalmaz. Sorunun kaynağını görünür kılar, kullanıcıyı doğru yönlendirir ve işlem sonrası kontrol adımını eksiksiz uygularız. Böylece hem bireysel kullanıcılar hem işletmeler, teknik destek sürecini daha net yönetir. Kartal’ın mahalle düzenine uygun servis akışımız, sahaya hızlı ulaşmamızı kolaylaştırır.</p>\n\n<p>İkinci önemli başlık, müdahale biçimidir. Her arıza aynı yöntemle ele alınmaz. Bazı cihazlar yerinde incelenir, bazıları atölye koşulunda test ister, bazı sorunlar ise uzaktan erişimle çözülebilir. Bu ayrımı baştan doğru yapmak, zaman kaybını önler. Ekibimiz, arıza tipi, cihaz yaşı, kullanım yoğunluğu ve veri riski gibi ölçütleri birlikte değerlendirir. Böylece gereksiz işlem yükü oluşmaz. Kullanıcı, neyin neden yapıldığını bilir. Bu yaklaşım Kartal’da teknik destek arayanların karar sürecini kolaylaştırır ve güven duygusunu güçlendirir.</p>\n\n<h2>Kartal Bilgisayar Tamir</h2>\n<p>Kartal bilgisayar tamir hizmeti, yalnız bozulan parçayı değiştirmekten ibaret değildir. Sağlıklı bir onarım süreci, önce tespit sonra uygun işlem sıralamasıyla ilerler. Cihazın açılmaması, yavaş çalışması, ani kapanması, fan gürültüsü, görüntü sorunu veya sıvı teması gibi arızalar farklı teknik okuma ister. <strong>Kartal içinde doğru tamir planı</strong> kurulduğunda hem süre kısalır hem maliyet gereksiz yere büyümez. <em>Temiz müdahale disiplini</em> burada belirleyici olur. <u>Doğru test adımı</u> uygulanmadan teslim edilen cihazlar, kısa sürede aynı sorunu tekrar gösterebilir. Bu nedenle işlem sonunda yük testi, sıcaklık kontrolü ve temel sistem kararlılığı ölçümleri yapılmalıdır.</p>\n\n<table>\n  <tr>\n    <th>Arıza Türü</th>\n    <th>İlk Kontrol</th>\n    <th>Uygun Yaklaşım</th>\n  </tr>\n  <tr>\n    <td>Açılmama</td>\n    <td>Güç hattı ve anakart kontrolü</td>\n    <td>Donanım testi ve parça doğrulama</td>\n  </tr>\n  <tr>\n    <td>Yavaşlama</td>\n    <td>Disk sağlığı ve sistem yükü</td>\n    <td>Bakım, yükseltme, yazılım düzeni</td>\n  </tr>\n  <tr>\n    <td>Isınma</td>\n    <td>Fan, termal yapı, hava kanalı</td>\n    <td>Temizlik ve ısı yönetimi işlemi</td>\n  </tr>\n</table>\n\n<h2>Kartal Bilgisayar Firmaları</h2>\n<p>Kartal bilgisayar firmaları arasında seçim yapılırken yalnız fiyat sorulması yeterli olmaz. Kullanıcı için asıl farkı oluşturan başlıklar; kayıt disiplini, iletişim netliği, süreç şeffaflığı ve işlem sonrası tutarlılıktır. Teknik destek sunan bir firmanın arızayı sade dille açıklaması gerekir. Ayrıca önerdiği işlemi gerekçesiyle sunması gerekir. <strong>Güven veren teknik merkezler</strong>, belirsiz konuşmaz. <em>Kısa ve net bilgi</em> sunar. <u>Onay almadan işlem</u> başlatmaz. Kartal içinde faaliyet gösteren bir teknik merkez, bölgenin ulaşım yapısını ve kullanıcı yoğunluğunu da doğru okumalıdır. Böylece adrese erişim ve teslim planı daha sağlıklı yönetilir.</p>\n\n<ul>\n  <li>Arıza tespiti yazılı ya da sözlü olarak net aktarılmalıdır.</li>\n  <li>Parça değişimi gerekiyorsa gerekçe açık biçimde sunulmalıdır.</li>\n  <li>İşlem süresi tahmine değil, teknik değerlendirmeye dayanmalıdır.</li>\n  <li>Teslim sonrası temel kontrol maddeleri kullanıcıya bildirilmelidir.</li>\n</ul>\n\n<h2>Kartal Bilgisayar Servisi</h2>\n<p>Kartal bilgisayar servisi arayan kullanıcıların büyük kısmı, zaman kaybı yaşadığı için destek ister. İş duran bir ofis bilgisayarı, ders sırasında kapanan bir notebook veya açılmayan masaüstü sistem, doğrudan günlük akışı bozar. Bu nedenle servis yaklaşımı hızlı olmalı, ama aceleci olmamalıdır. <strong>Hız ile teknik doğruluk</strong> aynı çizgide yürümelidir. <em>Planlı servis adımı</em> bunu sağlar. <u>Kartal mahalle erişimi</u> doğru kurgulandığında cihazın bekleme süresi düşer. Servis talebi alınırken cihaz türü, arıza belirtisi, kullanım alanı ve veri hassasiyeti sorulursa, ilk müdahale çok daha isabetli olur. Bu da hem kullanıcıyı rahatlatır hem onarım verimini yükseltir.</p>\n\n<ol>\n  <li>Talep alınır ve temel arıza bilgisi toplanır.</li>\n  <li>Yerinde mi atölyede mi işlem yapılacağı belirlenir.</li>\n  <li>Tespit sonrası kullanıcı onayı alınır.</li>\n  <li>İşlem tamamlanır, test yapılır, teslim gerçekleşir.</li>\n</ol>\n\n<h2>Kartal Bilgisayar Şirketi</h2>\n<p>Kartal bilgisayar şirketi arayan işletmeler için öncelik, yalnız tek seferlik onarım değildir. Süreklilik sağlayan bir teknik yapı gerekir. Ofis içindeki bilgisayarlar, yazıcılar, ağ bağlantıları ve kullanıcı hesapları birbiriyle ilişkilidir. Bir noktadaki aksama, başka bir noktada iş kaybı doğurabilir. <strong>Kurumsal düzende teknik istikrar</strong> bu nedenle önemlidir. <em>Düzenli bakım planı</em> sistemi ayakta tutar. <u>Kayıtlı müdahale modeli</u> ise geçmiş sorunları görünür kılar. Kartal bölgesinde çalışan firmalar için yerel destek avantajı, özellikle saha erişimi ve hızlı ziyaret planlamasında hissedilir. Böylece küçük arızalar büyümeden kontrol altına alınabilir.</p>\n\n<table>\n  <tr>\n    <th>Kurumsal İhtiyaç</th>\n    <th>Teknik Karşılık</th>\n    <th>Kazanım</th>\n  </tr>\n  <tr>\n    <td>Kullanıcı kesintisi</td>\n    <td>Hızlı arıza sınıflandırması</td>\n    <td>İş akışı korunur</td>\n  </tr>\n  <tr>\n    <td>Ağ düzensizliği</td>\n    <td>Yerel ağ ve erişim kontrolü</td>\n    <td>Bağlantı kararlılığı artar</td>\n  </tr>\n  <tr>\n    <td>Eski cihaz yükü</td>\n    <td>Bakım ve parça planı</td>\n    <td>Donanım ömrü uzar</td>\n  </tr>\n</table>\n\n<h2>Kartal Bilgisayar Tamir Servisi</h2>\n<p>Kartal bilgisayar tamir servisi ifadesi, kullanıcı gözünde hızla çözüm çağrışımı yapar. Yine de iyi tamir servisi, yalnız hızlı olan yer değildir. Öncelikle doğru soruyu soran, cihazın geçmişini dinleyen ve belirtileri doğru okuyan teknik ekip gerekir. Örneğin mavi ekran, yalnız yazılımsal bir hata olmayabilir. Disk sağlığı, bellek kararsızlığı veya ısı kaynaklı düzensizlik de aynı sonucu doğurabilir. <strong>Doğru teşhis olmadan tamir olmaz</strong>. <em>Yerinde ön kontrol</em> bazen ilk tabloyu netleştirir. <u>Derin test gerektiren</u> durumlar ise masa başı değerlendirme ister. Kullanıcının buna baştan hazırlanması, süreç memnuniyetini artırır ve yanlış beklentiyi azaltır.</p>\n\n<h2>Kartal Bilgisayar Şirketleri</h2>\n<p>Kartal bilgisayar şirketleri arasında fark yaratan noktalardan biri, teknik dili kullanıcı diline çevirebilmektir. Kullanıcı her parçayı bilmek zorunda değildir. Buna rağmen neyin değiştiğini, neyin korunduğunu ve hangi riskin giderildiğini bilmek ister. İyi çalışan bir teknik merkez, açıklama kalitesini hiçbir zaman ikinci plana atmaz. <strong>Açıklama netliği güven üretir</strong>. <em>Şeffaf kayıt düzeni</em> ise bu güveni destekler. <u>Belgesiz ilerleyen süreçler</u> sonradan sorun çıkarabilir. Kartal’da uzun süreli görünürlük isteyen teknik şirketler için mahalle ölçeğinde güven kazanmak, reklamdan daha güçlü bir değere dönüşür. Çünkü kullanıcılar önce deneyimi, sonra ismi hatırlar.</p>\n\n<ul>\n  <li>Kullanıcıyla aynı dili konuşan ekip daha hızlı güven kurar.</li>\n  <li>Net fiyatlandırma kararsızlığı azaltır.</li>\n  <li>Bakım önerisi sunan servisler tekrar arızayı düşürür.</li>\n  <li>Yerel erişim gücü teslim süresini dengeler.</li>\n</ul>\n\n<h2>Kartal Bilgisayar Tamircisi</h2>\n<p>Kartal bilgisayar tamircisi arayan kişiler, çoğu kez cihazı kime teslim edeceği konusunda tereddüt yaşar. Bunun ana nedeni, teknik müdahalenin kullanıcı tarafından tam görülememesidir. Bu noktada güveni oluşturan şey, yalnız deneyim iddiası değildir. İşin nasıl yürütüldüğüdür. Tespit öncesi cihaz kabulü, veri hassasiyeti notu, işlem onayı ve teslim kontrolü bir düzen içinde olmalıdır. <strong>İyi tamirci iz bırakan kişidir</strong>. <em>Dikkatli çalışma tarzı</em> bunu gösterir. <u>Dağınık işlem akışı</u> kullanıcıyı gerer. Kartal gibi yoğun kullanıcı trafiği olan bir bölgede teknik tamircinin zaman yönetimi kadar, iletişim düzeni de karar aşamasında belirleyici olur.</p>\n\n<h2>Kartal Bilgisayar Firması</h2>\n<p>Kartal bilgisayar firması seçerken masaüstü, notebook, çevre birimi ve ofis altyapısı için aynı merkezden destek alınabilmesi ciddi kolaylık sağlar. Ayrı ayrı çözüm aramak yerine, sorunun bütününü gören bir teknik yapı daha verimli sonuç üretir. Bu özellikle küçük işletmeler için önemlidir. Çünkü bir cihaz arızası çoğu zaman ağ, yazıcı ya da kullanıcı erişimi sorunlarıyla birlikte ilerler. <strong>Tek merkezden düzenli destek</strong> bu yüzden değer taşır. <em>Dağılmayan servis planı</em> işleri hızlandırır. <u>Kartal içi yerel koordinasyon</u> ise ziyaretleri daha rahat planlamayı mümkün kılar. Bu model, kullanıcıyı sürekli yeni arayışlara itmez.</p>\n\n<table>\n  <tr>\n    <th>Hizmet Başlığı</th>\n    <th>Uygun Kullanıcı</th>\n    <th>Beklenen Fayda</th>\n  </tr>\n  <tr>\n    <td>Yerinde destek</td>\n    <td>Ofisler ve yoğun çalışan kullanıcılar</td>\n    <td>Zaman kaybı azalır</td>\n  </tr>\n  <tr>\n    <td>Uzaktan destek</td>\n    <td>Yazılımsal sorun yaşayanlar</td>\n    <td>Hızlı ilk çözüm sağlanır</td>\n  </tr>\n  <tr>\n    <td>Bakım hizmeti</td>\n    <td>Yavaşlayan cihaz kullanıcıları</td>\n    <td>Performans dengelenir</td>\n  </tr>\n</table>\n\n<h2>Kartal Bilgisayar Teknik Destek</h2>\n<p>Kartal bilgisayar teknik destek hizmetinde asıl ihtiyaç, sorunun yalnız bugünü değil yarını için de çözülmesidir. Kullanıcıyı tekrar aynı arızayla baş başa bırakmayan yaklaşım, teknik desteğin gerçek değerini ortaya koyar. Bunun için bakım önerileri, kullanım notları ve gerekli yükseltme tavsiyeleri açık biçimde sunulmalıdır. <strong>Kalıcı rahatlama sağlayan müdahale</strong> teknik desteği sıradan onarımdan ayırır. <em>Kontrollü teslim düzeni</em> burada son halkadır. <u>Test edilmeden bırakılan</u> cihaz, yeniden risk üretir. Kartal’da teknik destek arayan bireysel ya da kurumsal kullanıcı için güven veren adres, yalnız cihazı çalıştıran değil, sonraki süreci de düşünen merkezdir.</p>",
+    "seo": {
+      "title": "Kartal Bilgisayar Teknik Servis ve Tamir Servisi",
+      "description": "Kartal Bilgisayar Teknik Servis; yerinde destek, hızlı arıza tespiti, onarım ve kurumsal çözümlerle Kartal genelinde güvenli teknik hizmet sunar.",
+      "keywords": []
+    },
+    "cta": {
+      "title": "Kartal'da Acil Destek ve Profesyonel Hizmet İçin;",
+      "description": "Hemen Ücretsiz danışmanlık için şimdi iletişime geçin.",
+      "primaryButtonText": "Teklif Al!"
+    },
+    "pricing": {
+      "title": "",
+      "subtitle": "",
+      "description": ""
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "Hakkımızda",
+      "subtitle": "Çalışma anlayışımızı, yerel servis yaklaşımımızı ve kullanıcıya sunduğumuz güven esaslarını bu sayfada net biçimde görebilirsiniz.\n"
+    },
+    "content": {
+      "description": "Kartal Bilgisayar Teknik Servis, mahalle ölçeğinde hız ve kurumsal ölçekte kayıt disipliniyle çalışan yerel bir teknik destek merkezidir. Arıza tespiti, bakım, parça değişimi, veri koruma ve kullanıcı bilgilendirmesini aynı süreç içinde yürütürüz. Bireysel kullanıcıdan ofislere uzanan taleplerde açık iletişim kurar, cihazı yalnız onarmayı değil, tekrar eden sorunların kaynağını da görünür hâle getiririz. Kartal’ın ritmine uygun, düzenli, güven telkin eden ve takibi güçlü bir servis anlayışıyla ilerleriz.\n",
+      "mission": "Kartal’da güven veren, izlenebilir ve hızlı teknik destek sunmak.\n",
+      "vision": "Kartal’da başvurulan ilk yerel teknik çözüm merkezi olmak.\n",
+      "values": [],
+      "valuesSubtitle": "Açık iletişim, kayıtlı süreç, temiz işçilik ve veri güvenliği; tüm çalışma düzenimizin ana omurgasını oluşturur.\n"
+    },
+    "seo": {
+      "title": "Hakkımızda",
+      "description": "Kartal Bilgisayar hakkında çalışma yaklaşımımızı, teknik disiplinimizi ve Kartal genelindeki güven veren servis anlayışımızı inceleyin.",
+      "keywords": []
+    }
+  },
+  "privacy": {
+    "hero": {
+      "title": "Gizlilik Politikası",
+      "subtitle": "Kartal Bilgisayar Teknik Servis tarafından işlenen verilerin hangi amaçlarla toplandığını, nasıl saklandığını ve hangi durumlarda paylaşıldığını bu sayfada açıkça bulabilirsiniz.\n"
+    },
+    "content": "<p>Kartal Bilgisayar Teknik Servis, kullanıcı mahremiyetine dikkatle yaklaşır. Bu politika, internet sitemiz ve teknik destek süreçlerimiz sırasında toplanan verilerin hangi çerçevede işlendiğini açıklamak amacıyla hazırlanmıştır.</p><h2>Toplanan Veriler</h2><p>İletişim formları, teklif talepleri, servis kayıtları ve teknik destek görüşmeleri sırasında ad, soyad, telefon numarası, e-posta adresi, cihaz bilgisi, arıza açıklaması ve işlem geçmişi gibi veriler alınabilir.</p><h2>Verilerin Kullanım Amaçları</h2><ul><li><p>Teknik destek talebini değerlendirmek</p></li><li><p>Servis sürecini yürütmek</p></li><li><p>Kullanıcıyla iletişim kurmak</p></li><li><p>İşlem onayı ve bilgilendirme sağlamak</p></li><li><p>Hizmet kalitesini izlemek</p></li></ul><h2>Cihaz İçeriği ve Veri Güvenliği</h2><p>Bakım ya da onarım için teslim edilen cihazlarda bulunan dosyalar, kullanıcıya ait özel veri kabul edilir. Teknik işlem zorunlu kılmadıkça içerik incelemesi yapılmaz. İşlem sırasında veriyle temas gerekirse, müdahale yalnız teknik ihtiyaç sınırında tutulur.</p><h2>Veri Saklama Süresi</h2><p>Servis kayıtları, yasal yükümlülükler ve operasyon takibi için gerekli süre boyunca saklanabilir. Süresi dolan kayıtlar silinir, yok edilir ya da anonim hâle getirilir.</p><h2>Üçüncü Taraflarla Paylaşım</h2><p>Kullanıcı verileri, açık rıza ya da hukuki zorunluluk bulunmadıkça üçüncü taraflara aktarılmaz. Parça tedariki, kargo veya dış kaynaklı işlem gereken sınırlı durumlarda yalnız gerekli bilgiler paylaşılır.</p><h2>Çerezler ve Site Kullanımı</h2><p>İnternet sitemizde kullanıcı deneyimini iyileştirmek, performansı ölçmek ve temel sistem işleyişini sürdürmek amacıyla çerezlerden yararlanılabilir. Ayrıntılar Çerez Politikası sayfasında yer alır.</p><h2>Kullanıcı Hakları</h2><p>Kullanıcılar, kendi verileriyle ilgili bilgi talep etme, düzeltme isteme, silme başvurusu yapma ve işleme itiraz etme hakkına sahiptir. Başvurular, iletişim kanallarımız üzerinden tarafımıza iletilebilir.</p><h2>Politika Güncellemeleri</h2><p>Bu metin, ihtiyaç duyulan hâllerde güncellenebilir. Güncel sürüm internet sitemizde yayımlanır ve yürürlük tarihi esas alınır.</p>",
+    "seo": {
+      "title": "Gizlilik Politikası",
+      "description": "Gizlilik Politikası sayfasında kişisel verilerin toplanma, saklanma, korunma ve kullanım esaslarını inceleyin.",
+      "keywords": []
+    }
+  },
+  "cookies": {
+    "hero": {
+      "title": "Çerez Politikası",
+      "subtitle": "Kartal Bilgisayar Teknik Servis sitesinde kullanılan çerez türlerini, kullanım amaçlarını ve tercih yönetimi seçeneklerini bu sayfada açık biçimde ayrıntılı inceleyebilirsiniz.\n"
+    },
+    "content": "<p>Kartal Bilgisayar Teknik Servis internet sitesi, kullanıcı deneyimini düzenlemek ve teknik performansı izlemek amacıyla çerez kullanabilir. Bu politika, kullanılan çerez türlerini ve tercih haklarını açıklamak için hazırlanmıştır.</p><h2>Çerez Nedir</h2><p>Çerez, ziyaret edilen internet siteleri tarafından tarayıcıya bırakılan küçük veri dosyasıdır. Bu dosyalar, site işleyişi ve kullanıcı tercihleri açısından yardımcı olur.</p><h2>Kullanılan Çerez Türleri</h2><ul><li><p>Zorunlu çerezler</p></li><li><p>Performans çerezleri</p></li><li><p>Analitik çerezler</p></li><li><p>Tercih çerezleri</p></li></ul><h2>Çerezlerin Kullanım Amaçları</h2><p>Site oturumunun sürdürülmesi, sayfaların doğru görüntülenmesi, performans ölçümü, ziyaret akışının değerlendirilmesi ve kullanıcı tercih bilgilerinin korunması çerez kullanım nedenleri arasındadır.</p><h2>Üçüncü Taraf Çerezleri</h2><p>Sitemizde analiz ya da performans araçları kullanılıyorsa, ilgili hizmet sağlayıcıların kendi çerezleri de devreye girebilir. Bu durum, kullanılan altyapıya bağlı olarak değişebilir.</p><h2>Çerez Tercihleri Nasıl Yönetilir</h2><ol><li><p>Tarayıcı ayarlarından mevcut çerezleri silebilirsiniz.</p></li><li><p>Yeni çerezleri engelleyebilirsiniz.</p></li><li><p>Belirli siteler için özel izin tanımlayabilirsiniz.</p></li></ol><h2>Çerezlerin Devre Dışı Bırakılması</h2><p>Bazı çerezlerin kapatılması, internet sitesinin belirli işlevlerinde yavaşlama ya da sınırlı kullanım doğurabilir. Bu etki, kullanılan tarayıcı ve cihaz yapısına göre değişebilir.</p><h2>Politika Güncellemeleri</h2><p>Çerez Politikası metni, altyapı değişikliği ya da hukuki gerekçeler doğrultusunda yenilenebilir. Geçerli sürüm, internet sitemizde yayımlanan en güncel metindir.</p>",
+    "seo": {
+      "title": "Çerez Politikası",
+      "description": "Çerez Politikası sayfasında kullanılan çerez türlerini, amaçlarını ve tercih ayarlarını açık şekilde inceleyin.",
+      "keywords": []
+    }
+  },
+  "sitemap": {
+    "hero": {
+      "title": "Site Haritası",
+      "subtitle": "Kartal Bilgisayar Teknik Servis sitesindeki ana sayfaları, hizmet alanlarını ve yönlendirme yapısını bu bölümde düzenli ve anlaşılır biçimde görüntüleyebilirsiniz.\n"
+    },
+    "seo": {
+      "title": "Site Haritası",
+      "description": "Site haritası ile ana sayfalar, hizmet içerikleri ve önemli bağlantılar arasında hızlı ve düzenli geçiş sağlayın.",
+      "keywords": []
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "İletişim",
+      "subtitle": "Kartal Bilgisayar Teknik Servis ile iletişim kurmak, talep iletmek ve teknik destek sürecini başlatmak için gerekli bilgileri bu sayfada bulabilirsiniz."
+    },
+    "info": {
+      "description": "..."
+    },
+    "form": {
+      "description": "..."
+    },
+    "maps": {
+      "iframe": ""
+    },
+    "seo": {
+      "title": "İletişim",
+      "description": "İletişim sayfamız üzerinden Kartal Bilgisayar Teknik Servis ekibine ulaşın, talebinizi iletin ve teknik destek sürecini hızlı biçimde başlatın.",
+      "keywords": []
+    }
+  },
+  "footer": {
+    "title": "Kartal Bilgisayar Teknik Servis",
+    "description": "Kartal Bilgisayar Teknik Servis, bireysel kullanıcılar ile kurumsal işletmeler için arıza tespiti, bakım, onarım ve profesyonel teknik destek süreçlerini düzenli, güven veren ve erişilebilir bir hizmet anlayışıyla yürüten yerel bir servis merkezidir."
+  }
+}
